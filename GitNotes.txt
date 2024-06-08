@@ -1,0 +1,27 @@
+//Some basic git commands every programmer to know
+Git Commands:
+git --version //to check the git version installed in the local machine
+
+git init //initilize git local repo and create .git folder 
+
+git status //to check the status of the project
+
+git add Filename //add untrack files to the staging 
+
+git add . //to add all files 
+
+git commit -m "message" //to commit after staging the files
+
+git commit -a -m "message" //commiting without staging the files
+
+git diff //to check the what changes made to files
+
+git diff --staged // to check what changes made to the file after staging
+
+git log //to check all the commits by all users working on the project
+
+git rm --cached Filename // to delete file from the git local repo
+or
+git rm Filename
+
+
