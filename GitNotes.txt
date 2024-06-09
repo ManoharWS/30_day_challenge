@@ -24,4 +24,18 @@ git rm --cached Filename // to delete file from the git local repo
 or
 git rm Filename
 
+git push // pushing commits and changes from local to remote repo
+
+git pull //fetches and merges changes 
+
+git branch //shows all branches
+
+git branch BranchName //to create new branch
+
+git checkout BranchName // to move to specified branch from other branch
+
+git merge BranchName // merges specified branchName into current Branch
+
+
+
 
